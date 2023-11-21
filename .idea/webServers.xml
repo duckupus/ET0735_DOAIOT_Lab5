@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aedfdeb8-6ee0-49b1-9f4c-de5858865169" name="yummy pie">
+        <fileTransfer accessType="SFTP" host="172.23.8.177" port="22" sshConfigId="4264ee4e-7727-4b4e-86a7-933eabd0ce8b" sshConfig="nom pie">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
